@@ -1,6 +1,6 @@
 # Overview #
 
-CameraWorks is an experimental camera utility with LOD loading and granular controls, capable of capturing continuous footage over long distances.
+CameraWorks is an experimental camera utility with LOD loading and granular controls, fit for capturing continuous footage over long distances.
 
 Requres MelonLoader.
 
@@ -21,16 +21,14 @@ Requres MelonLoader.
  - etc ...
 
 ## Note ##
-It is highly recommended to NOT use any kind of third-party software such as this for a certain arpg game.
-
+It is highly recommended to **NOT** use any kind of third-party software for anime game.  
 Using this may get you banned. Use at your own risk.
 
-### Dependencies ###
+### Environment ###
 
 - Visual Studio 2019 for building
 
-- MelonLoader modified for a certain arpg game
-
+- MelonLoader modified for anime game
 
 ## Hotkeys ##
 

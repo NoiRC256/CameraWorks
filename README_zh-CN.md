@@ -27,7 +27,7 @@
 
 - Visual Studio 2019
 
-- 某个 arpg 游戏的修改版 MelonLoader 
+- 某 arpg 游戏的修改版 MelonLoader 
 
 ## 默认按键 ##
 
