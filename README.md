@@ -2,7 +2,7 @@
 
 CameraWorks is an experimental camera utility with LOD loading and granular controls, fit for capturing continuous footage over long distances.
 
-Requres MelonLoader.
+Requires MelonLoader.
 
 ![example1](https://i.ibb.co/HP24pKM/CW-Demo-A1.png)
 
